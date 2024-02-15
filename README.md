@@ -1,4 +1,5 @@
 # lk2 
+## pr1
 ### task:
 ![image](https://github.com/losiik/tumgu-architecture-of-digital-devices/assets/49565548/46e10020-0aee-4262-9f21-0ea95eb03108)
 ### result:
